@@ -1,0 +1,13 @@
+This line will help you to install all requirements required for our project to run in oun system.
+Open CMD and run => pip freeze > requirements.txt
+
+
+
+OpenCV: 4.5.3
+NumPy: 1.21.6
+pyttsx3: 2.90
+
+
+For OpenCV: pip install opencv-python
+For NumPy: pip install numpy
+For pyttsx3: pip install pyttsx3
